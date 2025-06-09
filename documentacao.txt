@@ -1,0 +1,8 @@
+Explicação em Detalhes do código da API
+
+Arquivo main.py - Arquivo principal
+
+
+
+
+
