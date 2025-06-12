@@ -2,7 +2,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 class AnalisadorSentimentos:
-    def __init__(self, caminho_modelo="./sentiment_model_ptbr_finetuned"):
+    def __init__(self, caminho_modelo="Abraao000/Sentiment-Analysis-API-Python"):
         """
         Carrega o modelo treinado de análise de sentimentos em português
         """

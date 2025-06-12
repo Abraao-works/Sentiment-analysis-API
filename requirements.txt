@@ -8,6 +8,7 @@ torch>=2.2.0
 
 # APi
 psycopg2-binary==2.9.10
+huggingface_hub
 
 # Database Driver (Asynchronous)
 asyncpg 
